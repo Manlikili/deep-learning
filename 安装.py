@@ -13,3 +13,4 @@ brew install wget
 ## 请始终执行conda activate d2l以激活运行时环境。 要退出环境，请运行conda deactivate。
 conda activate d2l
 conda deactivate
+git push origin main
